@@ -1,0 +1,22 @@
+{
+  "sessionId": "session_1766862115230_caw92q",
+  "sessionName": "what is the chapter 1 of software enginnering and what...",
+  "email": "sadiq@kletech.ac.in",
+  "createdAt": "2025-12-27T19:02:16.223Z",
+  "updatedAt": "2025-12-27T19:02:16.226Z",
+  "messages": [
+    {
+      "role": "assistant",
+      "question": "what is the chapter 1 of software enginnering and what is the admission procedure for the course bca 2nd year",
+      "answer": "",
+      "storesUsed": [
+        "computer_science_agent_kle_technological_university_acc_1766835989869_bgp19wovz",
+        "admission_agent_kle_technological_university_acc_1766835907851_h7mvbx631"
+      ],
+      "grounding": [],
+      "timestamp": "2025-12-27T19:02:16.225Z",
+      "isCampusSearch": true,
+      "method": "campus_search"
+    }
+  ]
+}

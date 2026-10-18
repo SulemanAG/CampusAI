@@ -1,0 +1,32 @@
+{
+  "accountId": "acc_1766835989869_bgp19wovz",
+  "accountEmail": "cse@kletech.ac.in",
+  "password": "$2b$10$nEnpfJm5f4LbVQZ6qphSo.9lpieOULIA2LRV1EQjJMRnXsP3nNXka",
+  "accountName": "Computer Science Agent",
+  "isPrimary": false,
+  "universityEmail": "testing@kletech.ac.in",
+  "universityId": "univ_1766835820407_1e7ucrsev",
+  "universityName": "KLE TECHNOLOGICAL UNIVERSITY",
+  "ragStore": {
+    "storeName": "computer_science_agent_kle_technological_university_acc_1766835989869_bgp19wovz",
+    "storeResource": "fileSearchStores/computerscienceagentkletech-zngcquy326b0",
+    "createdAt": "2025-12-27T11:46:36.524Z"
+  },
+  "isActive": true,
+  "createdAt": "2025-12-27T11:46:36.524Z",
+  "updatedAt": "2025-12-27T12:03:21.347Z",
+  "accessibleStores": [
+    {
+      "storeName": "computer_science_agent_kle_technological_university_acc_1766835989869_bgp19wovz",
+      "storeResource": "fileSearchStores/computerscienceagentkletech-zngcquy326b0",
+      "isPrimary": true,
+      "accessType": "owner"
+    },
+    {
+      "storeName": "kle_technological_university_kletech",
+      "storeResource": "fileSearchStores/kletechnologicaluniversityk-5jnj8o4x873a",
+      "isPrimary": false,
+      "accessType": "university_website"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "notice": [
+    {
+      "filename": "22ECAC301 Software Engineering Lesson Plan.txt",
+      "imagekitUrl": "https://ik.imagekit.io/wh1qqsphz/22ECAC301_Software_Engineering_Lesson_Plan_ZVMsQIOW1.txt",
+      "imagekitFileId": "694fcb6a5c7cd75eb83ebffe",
+      "ragData": {
+        "success": true,
+        "results": [
+          {
+            "filename": "22ECAC301_Software_Engineering_Lesson_Plan.txt",
+            "uploaded": true,
+            "indexed": true,
+            "document_resource": "fileSearchStores/computerscienceagentkletech-zngcquy326b0/documents/22ecac301softwareengineerin-kw86trrfw5sz",
+            "document_id": "22ecac301softwareengineerin-kw86trrfw5sz",
+            "gemini_error": null
+          }
+        ]
+      },
+      "uploadedAt": "2025-12-27T12:05:17.311Z",
+      "_isConvertedToTXT": false,
+      "_originalExtension": ".txt",
+      "_convertedTextLength": 0
+    }
+  ],
+  "faq": [],
+  "impData": []
+}

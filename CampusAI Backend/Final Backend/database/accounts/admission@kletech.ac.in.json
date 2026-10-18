@@ -1,0 +1,26 @@
+{
+  "accountId": "acc_1766835907851_h7mvbx631",
+  "accountEmail": "admission@kletech.ac.in",
+  "password": "$2b$10$7ZeSKUw0Wwujt6muTtcmEOYjhiw57zJl/FEvYsSKeAzbwq6THS3Ym",
+  "accountName": "Admission Agent",
+  "isPrimary": true,
+  "universityEmail": "testing@kletech.ac.in",
+  "universityId": "univ_1766835820407_1e7ucrsev",
+  "universityName": "KLE TECHNOLOGICAL UNIVERSITY",
+  "ragStore": {
+    "storeName": "admission_agent_kle_technological_university_acc_1766835907851_h7mvbx631",
+    "storeResource": "fileSearchStores/admissionagentkletechnologi-r4aq60j94nal",
+    "createdAt": "2025-12-27T11:45:14.592Z"
+  },
+  "isActive": true,
+  "createdAt": "2025-12-27T11:45:14.592Z",
+  "updatedAt": "2025-12-27T12:03:21.346Z",
+  "accessibleStores": [
+    {
+      "storeName": "admission_agent_kle_technological_university_acc_1766835907851_h7mvbx631",
+      "storeResource": "fileSearchStores/admissionagentkletechnologi-r4aq60j94nal",
+      "isPrimary": true,
+      "accessType": "owner"
+    }
+  ]
+}

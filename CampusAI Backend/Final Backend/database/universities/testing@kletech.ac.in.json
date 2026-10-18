@@ -1,0 +1,30 @@
+{
+  "universityId": "univ_1766835820407_1e7ucrsev",
+  "email": "testing@kletech.ac.in",
+  "password": "$2b$10$KzKSG/azioKzR1XCkSrtju/FRzTDIe0z5X6.uvdaU7Qi9KYOwU3iy",
+  "universityName": "KLE TECHNOLOGICAL UNIVERSITY",
+  "universityType": "Private",
+  "city": "hubli",
+  "state": "Karnataka",
+  "country": "India",
+  "websiteUrl": "https://www.kletech.ac.in/",
+  "establishedDate": "2025-12-09T00:00:00.000Z",
+  "studentEmailExtension": "@kletech.ac.in",
+  "description": "Premier institute",
+  "phoneNumber": "+91903593810",
+  "accreditation": "",
+  "read_website": true,
+  "isActive": false,
+  "ragStore": {
+    "storeName": "kle_technological_university_kletech",
+    "storeResource": "fileSearchStores/kletechnologicaluniversityk-5jnj8o4x873a",
+    "createdAt": "2025-12-27T11:43:54.137Z"
+  },
+  "createdAt": "2025-12-27T11:43:54.137Z",
+  "updatedAt": "2025-12-27T12:03:21.345Z",
+  "apiKeyInfo": {
+    "key": "AIzaSyDwVT-irKSU-Tc582ZCyAjBo2agv7Ew2p4",
+    "assignedAt": "2025-12-27T11:43:54.137Z",
+    "isFixedKey": true
+  }
+}

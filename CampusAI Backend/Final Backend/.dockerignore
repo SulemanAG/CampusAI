@@ -1,0 +1,43 @@
+# Node modules
+node_modules
+npm-debug.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Firebase credentials (will be provided via environment)
+firebase-service-account.json
+firebase-service-account.json.old
+firebase.js.old
+
+# Git
+.git
+.gitignore
+
+# Documentation
+*.md
+docs/
+
+# Database (old JSON files - not needed in container)
+database/
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+*.log
+tmp/
+temp/

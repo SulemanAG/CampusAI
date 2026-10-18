@@ -1,0 +1,62 @@
+[
+  {
+    "provider_email": "admission@kletech.ac.in",
+    "user_email": "sadiq@kletech.ac.in",
+    "store_name": "admission_agent_kle_technological_university_acc_1766835907851_h7mvbx631",
+    "question": "What is Name of Chapter 1 in Software Engineering ",
+    "response": "I apologize, but I couldn't find information about the name of Chapter 1 in Software Engineering within the provided documents.",
+    "grounding": [],
+    "asked_at": "2025-12-27T12:11:23.804Z",
+    "isCampusSearch": true
+  },
+  {
+    "provider_email": "admission@kletech.ac.in",
+    "user_email": "sadiq@kletech.ac.in",
+    "store_name": "admission_agent_kle_technological_university_acc_1766835907851_h7mvbx631",
+    "question": "Explain the ethical importance of Software engineering lesson plan",
+    "response": "I am sorry, but I cannot provide an explanation of the ethical importance of a Software Engineering lesson plan based on the information available in the provided file search stores. The documents do not contain details on this specific topic.",
+    "grounding": [],
+    "asked_at": "2025-12-27T12:14:50.409Z",
+    "isCampusSearch": true
+  },
+  {
+    "provider_email": "admission@kletech.ac.in",
+    "user_email": "sadiq@kletech.ac.in",
+    "store_name": "admission_agent_kle_technological_university_acc_1766835907851_h7mvbx631",
+    "question": "what is chapter 2 of software enginnering",
+    "response": "I apologize, but I couldn't find any information regarding \"chapter 2 of software engineering\" in the provided documents. Therefore, I cannot tell you what it is about.",
+    "grounding": [],
+    "asked_at": "2025-12-27T12:17:22.929Z",
+    "isCampusSearch": true
+  },
+  {
+    "provider_email": "admission@kletech.ac.in",
+    "user_email": "sadiq@kletech.ac.in",
+    "store_name": "admission_agent_kle_technological_university_acc_1766835907851_h7mvbx631",
+    "question": "what is the chapter 1 of software enginnering",
+    "response": "I am sorry, but I cannot provide you with the content of \"chapter 1 of software engineering\" as the information is not available in the documents I have access to.",
+    "grounding": [],
+    "asked_at": "2025-12-27T17:56:54.993Z",
+    "isCampusSearch": true
+  },
+  {
+    "provider_email": "admission@kletech.ac.in",
+    "user_email": "sadiq@kletech.ac.in",
+    "store_name": "admission_agent_kle_technological_university_acc_1766835907851_h7mvbx631",
+    "question": "what is the chapter 1 of software enginnering and what is the admission procedure for the course bca 2nd year",
+    "response": "I apologize, but I couldn't find any information regarding \"chapter 1 of software engineering\" or the \"admission procedure for BCA 2nd year\" in the documents I have access to.",
+    "grounding": [],
+    "asked_at": "2025-12-27T18:20:44.158Z",
+    "isCampusSearch": true
+  },
+  {
+    "provider_email": "admission@kletech.ac.in",
+    "user_email": "sadiq@kletech.ac.in",
+    "store_name": "admission_agent_kle_technological_university_acc_1766835907851_h7mvbx631",
+    "question": "what is the chapter 1 of software enginnering and what is the admission procedure for the course bca 2nd year",
+    "response": "I apologize, but I couldn't find any information regarding \"chapter 1 of software engineering\" or the \"admission procedure for BCA 2nd year\" in the documents I have access to.",
+    "grounding": [],
+    "asked_at": "2025-12-27T19:09:30.792Z",
+    "isCampusSearch": true
+  }
+]
